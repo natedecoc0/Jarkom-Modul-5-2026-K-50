@@ -10,6 +10,8 @@
 
 ---
 
+## Babak 1: Membangun Geofront
+
 ### Soal 1: 
 > Markas tanpa peta: tengah malam alarm meraung, dan Ritsuko terdiam. Markas sebesar ini dibangun tanpa peta alamat. Gendo anti pemborosan, jadi tiap subnet memakai prefix terkecil yang muat. Bagi prefix IP kelompokmu dengan VLSM untuk 17 LAN dan 16 link antar-router, urut dari kebutuhan terbesar. Tunjukkan tabel berisi network, prefix, gateway, broadcast, IP terpakai, dan sisa. Tunjukkan juga gambar pohon IP, dengan subnet jalur Dummy-Plug ke Armisael dilingkari. Di laporan, jelaskan hitungan satu subnet.
 
@@ -1233,6 +1235,10 @@ cat /root/tokyo3.log
 <img width="745" height="521" alt="image" src="https://github.com/user-attachments/assets/2592fb28-8138-4deb-bafa-ca43531b2e29" />
 
 Log Pen-Pen mencatat koneksi ke port 80, dan log Tokyo3-Core mencatat koneksi ke port 80 dan 8080, masing-masing dengan timestamp.
+
+--- 
+
+## Babak 2: Sabotase dan Hantu MAGI
 
 ### Soal 9: Jalur belakang diutak-atik (break_routing.sh di Shigeru)
 > Jalur belakang diutak-atik: tengah malam masuk laporan bahwa ada yang mengutak-atik jalur belakang di sekitar Shigeru. Lilith tidak mendapat jawaban dari Armisael, padahal Armisael masih bisa ping gateway-nya sendiri. Jalankan break_routing.sh di Shigeru. Buktikan Lilith bisa ping Armisael kembali setelah perbaikan.
