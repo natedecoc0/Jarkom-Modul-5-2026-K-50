@@ -76,7 +76,7 @@ Total terpakai: 192.236.0.0 sampai 192.236.4.171 = **1196 alamat**. Sisa bebas: 
 #### 1D. Pohon IP
 Pohon IP menggambarkan pembagian prefix 192.236.0.0/16 secara bertingkat sampai tiap subnet. Subnet jalur Dummy-Plug ke Armisael (A9, L9, L15, L13, A13) ditandai garis merah tebal.
 
-
+<img width="6382" height="2059" alt="image" src="https://github.com/user-attachments/assets/f2a8dec4-fc78-4918-9583-4c65a6894a44" />
 
 Gambar menunjukkan 17 LAN (A1–A17) dan 16 link router (L1–L16) tersusun urut dari kebutuhan terbesar, tanpa tumpang tindih.
 
